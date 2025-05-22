@@ -33,6 +33,7 @@ Turnover geral (0.2% vs meta 10%)
 84.62% vinculado a designações
 
 ✅ Gráfico temporal para tendências mensais (admissões, saídas)
+
 ✅ Filtros dinâmicos por período e categoria
 
 # ⚙️ Ferramentas Utilizadas
@@ -59,7 +60,9 @@ Otimização de realocação de equipes
 
 # 📌 Próximos Passos
 🔹 Automatizar atualizações via conexão direta com banco de dados
+
 🔹 Adicionar segmentação por departamento/cargo
+
 🔹 Alertas para métricas fora do esperado
 
 <div align="center"> <img src="https://img.shields.io/badge/Status-Em_Produção-success" alt="Status"/> <img src="https://img.shields.io/badge/Atualização-Semanal-blue" alt="Frequência"/> </div>
