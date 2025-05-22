@@ -1,5 +1,6 @@
 # 📊 Dashboard de People Analytics - Relatório de Movimentação e Turnover
-🔍 O Problema
+
+# 🔍 O Problema
 O RH da empresa necessitava de visibilidade em tempo real sobre:
 
 Movimentações de colaboradores (admissões, desligamentos, designações)
@@ -36,6 +37,7 @@ Turnover geral (0.2% vs meta 10%)
 
 # ⚙️ Ferramentas Utilizadas
 <div style="display: flex; gap: 10px; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black" alt="Power BI"/> <img src="https://img.shields.io/badge/DAX-FF9900?style=for-the-badge&logo=Power-BI&logoColor=white" alt="DAX"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft-Excel&logoColor=white" alt="Excel"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" alt="SQL Server"/> </div>
+
 # 📊 Resultados Obtidos
 ✔ Identificação de gargalos:
 
@@ -61,7 +63,8 @@ Otimização de realocação de equipes
 🔹 Alertas para métricas fora do esperado
 
 <div align="center"> <img src="https://img.shields.io/badge/Status-Em_Produção-success" alt="Status"/> <img src="https://img.shields.io/badge/Atualização-Semanal-blue" alt="Frequência"/> </div>
-🎯 Impacto Esperado
+
+# 🎯 Impacto Esperado
 Redução de custos operacionais e melhoria na retenção de talentos através de decisões baseadas em dados.
 
 📌 Acesso ao Dashboard: [[Link para o arquivo .pbix ou publicação no Power BI Service](https://app.powerbi.com/groups/393534ab-53f5-46d7-a17a-4e34e0a907e8/reports/30dc3b00-1ee2-4575-af83-fe6017e6b9c5/ReportSection?experience=power-bi)]
