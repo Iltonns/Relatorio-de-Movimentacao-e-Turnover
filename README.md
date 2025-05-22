@@ -1,4 +1,4 @@
-📊 Dashboard de People Analytics - Relatório de Movimentação e Turnover
+# 📊 Dashboard de People Analytics - Relatório de Movimentação e Turnover
 🔍 O Problema
 O RH da empresa necessitava de visibilidade em tempo real sobre:
 
@@ -12,7 +12,7 @@ Análise temporal (variação mensal de métricas)
 
 Objetivo: Reduzir rotatividade e otimizar a alocação de pessoal com base em dados.
 
-🛠️ O Que Foi Feito
+# 🛠️ O Que Foi Feito
 Desenvolvimento de um dashboard estratégico no Power BI com:
 
 ✅ KPIs-chave em cards destacados:
@@ -34,9 +34,9 @@ Turnover geral (0.2% vs meta 10%)
 ✅ Gráfico temporal para tendências mensais (admissões, saídas)
 ✅ Filtros dinâmicos por período e categoria
 
-⚙️ Ferramentas Utilizadas
+# ⚙️ Ferramentas Utilizadas
 <div style="display: flex; gap: 10px; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black" alt="Power BI"/> <img src="https://img.shields.io/badge/DAX-FF9900?style=for-the-badge&logo=Power-BI&logoColor=white" alt="DAX"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft-Excel&logoColor=white" alt="Excel"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" alt="SQL Server"/> </div>
-📊 Resultados Obtidos
+# 📊 Resultados Obtidos
 ✔ Identificação de gargalos:
 
 Absenteísmo 100% acima da meta (10% vs 5%)
@@ -55,7 +55,7 @@ Revisão de políticas de absenteísmo
 
 Otimização de realocação de equipes
 
-📌 Próximos Passos
+# 📌 Próximos Passos
 🔹 Automatizar atualizações via conexão direta com banco de dados
 🔹 Adicionar segmentação por departamento/cargo
 🔹 Alertas para métricas fora do esperado
